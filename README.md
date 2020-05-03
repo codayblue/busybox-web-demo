@@ -18,4 +18,4 @@ Make sure to have the following installed
 
 ## Not fun stuff
 
-By using this project you are accepting the use of the LICENSE in the LICENSE file. 
+By using this project you are accepting the LICENSE found in the LICENSE file. 
